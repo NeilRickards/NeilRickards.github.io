@@ -5,6 +5,7 @@ body {
 
 .logo {
 	margin: auto;
+	position: absolute;
 }
 
 .carousel {
