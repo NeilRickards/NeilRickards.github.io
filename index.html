@@ -8,6 +8,9 @@
 </head>
 <body>
 
+<div class="logo">
+	<img src="images/logo.png" />
+</div>
 <div class="carousel">
     <div><img data-lazy="images/carousel/BLOK/CF064567.jpg" /></div>
     <div><img data-lazy="images/carousel/BLOK/CF064673.jpg" /></div>
@@ -54,7 +57,7 @@
 <script type="text/javascript">
 	$(document).ready(function(){
 	  $('.carousel').slick({
-	  	lazyLoad: 'ondemand',
+	  	lazyLoad: 'progressive',
 	    autoplay: true,
 	    autoplaySpeed: 3000,
 	  });
