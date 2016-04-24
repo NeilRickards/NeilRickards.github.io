@@ -18,7 +18,16 @@ body {
 	z-index: 1;
 }
 
+.logo img {
+	position: relative;
+	top: -50%;
+}
+
 .carousel {
 	width: 100%;
 	height: auto;
+}
+
+.carousel img {
+	border: 5px solid #FFF;
 }
