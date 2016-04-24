@@ -4,21 +4,21 @@ body {
 }
 
 .container {
+	position: relative;
 	display: block;
 	margin: 0 auto;
 	max-width: 1024px;
 	padding: 0 25px;
 }
 
-.foologo {
-    float: left;
-    position: relative;
-    left: 50%;
+.logo {
+    position: absolute;
+    left: 162;
+    top: 50%;
 	z-index: 1;
 }
 
-.foologo img {
-    float: left;
-    position: relative;
-    left: -50%;	
+.carousel {
+	width: 100%;
+	height: auto;
 }
