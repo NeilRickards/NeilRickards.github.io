@@ -11,7 +11,7 @@ body {
 }
 
 .logo {
+	display: table;
 	margin: auto;
-	position: absolute;
 	z-index: 1;
 }
