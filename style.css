@@ -10,14 +10,14 @@ body {
 	padding: 0 25px;
 }
 
-.logo {
+.foologo {
     float: left;
     position: relative;
     left: 50%;
 	z-index: 1;
 }
 
-.logo img {
+.foologo img {
     float: left;
     position: relative;
     left: -50%;	
