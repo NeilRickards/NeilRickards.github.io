@@ -19,7 +19,7 @@ body {
 }
 
 .logo img {
-	position: relative;
+	position: absolute;
 	top: -50%;
 }
 
@@ -33,5 +33,5 @@ body {
 }
 
 .carousel img {
-	border: 5px solid #FFF;
+	border: 5px solid #F00;
 }
