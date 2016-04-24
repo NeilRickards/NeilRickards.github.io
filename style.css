@@ -13,14 +13,9 @@ body {
 
 .logo {
     position: absolute;
-    left: 162;
-    top: 50%;
+    left: 162px;
+    top: 300px;
 	z-index: 1;
-}
-
-.logo img {
-	position: absolute;
-	top: -50%;
 }
 
 .carousel {
@@ -29,9 +24,5 @@ body {
 }
 
 .carousel div {
-	padding: 10px;
-}
-
-.carousel img {
-	border: 5px solid #F00;
+	padding: 20px;
 }
