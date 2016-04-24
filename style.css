@@ -28,6 +28,10 @@ body {
 	height: auto;
 }
 
+.carousel div {
+	padding: 10px;
+}
+
 .carousel img {
 	border: 5px solid #FFF;
 }
